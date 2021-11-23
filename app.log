@@ -1,0 +1,1849 @@
+INFO:werkzeug: * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 199-951-714
+INFO:werkzeug: * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 199-951-714
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2021 20:16:01] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2021 20:16:02] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2021 20:16:02] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2021 20:16:02] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2021 20:16:04] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2021 20:16:04] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 199-951-714
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2021 20:19:44] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2021 20:19:44] "[37mGET /static/assets/css/redhat.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2021 20:19:44] "[37mGET /static/images/red-hat-1.svg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2021 20:19:45] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 199-951-714
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2021 20:20:11] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2021 20:20:11] "[37mGET /static/assets/materialize/css/materialize.min.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2021 20:20:11] "[37mGET /static/assets/css/bootstrap.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2021 20:20:11] "[37mGET /static/assets/css/font-awesome.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2021 20:20:11] "[37mGET /static/assets/css/custom-styles.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2021 20:20:11] "[37mGET /static/assets/js/Lightweight-Chart/cssCharts.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2021 20:20:11] "[37mGET /static/assets/js/jquery-1.10.2.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2021 20:20:11] "[37mGET /static/assets/js/morris/morris-0.4.3.min.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2021 20:20:11] "[37mGET /static/assets/js/morris/raphael-2.1.0.min.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2021 20:20:11] "[37mGET /static/assets/js/morris/morris.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2021 20:20:11] "[37mGET /static/assets/materialize/js/materialize.min.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2021 20:20:11] "[37mGET /static/assets/js/bootstrap.min.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2021 20:20:11] "[37mGET /static/assets/js/jquery.metisMenu.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2021 20:20:11] "[37mGET /static/assets/js/easypiechart.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2021 20:20:11] "[37mGET /static/assets/js/easypiechart-data.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2021 20:20:11] "[37mGET /static/assets/js/Lightweight-Chart/jquery.chart.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2021 20:20:11] "[37mGET /static/assets/js/custom-scripts.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2021 20:20:15] "[37mGET /static/assets/font-awesome/fonts/fontawesome-webfontba72.woff?v=4.0.3 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2021 20:25:09] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2021 20:25:20] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2021 20:25:53] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2021 20:26:07] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 199-951-714
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2021 21:06:49] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2021 21:07:24] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2021 21:09:19] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2021 21:11:23] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2021 21:11:46] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2021 21:12:31] "[33mGET /empty.html HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2021 21:12:36] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2021 21:12:44] "[33mGET /empty.html HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2021 21:13:33] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2021 21:14:00] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2021 21:17:01] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2021 21:18:02] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2021 21:18:26] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2021 21:18:29] "[33mGET /index.html HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2021 21:18:44] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2021 21:19:34] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2021 21:20:17] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 283-170-574
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2021 13:06:57] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2021 13:06:58] "[36mGET /static/assets/css/redhat.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2021 13:06:58] "[36mGET /static/images/red-hat-1.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2021 13:06:58] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2021 13:07:03] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2021 13:07:03] "[36mGET /static/assets/css/bootstrap.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2021 13:07:03] "[36mGET /static/assets/css/font-awesome.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2021 13:07:03] "[36mGET /static/assets/materialize/css/materialize.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2021 13:07:03] "[36mGET /static/assets/js/morris/morris-0.4.3.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2021 13:07:03] "[36mGET /static/assets/js/jquery-1.10.2.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2021 13:07:03] "[36mGET /static/assets/css/custom-styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2021 13:07:03] "[36mGET /static/assets/js/Lightweight-Chart/cssCharts.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2021 13:07:03] "[36mGET /static/assets/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2021 13:07:03] "[36mGET /static/assets/js/jquery.metisMenu.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2021 13:07:03] "[36mGET /static/assets/js/morris/raphael-2.1.0.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2021 13:07:03] "[36mGET /static/assets/js/morris/morris.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2021 13:07:03] "[36mGET /static/assets/js/easypiechart.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2021 13:07:03] "[36mGET /static/assets/js/easypiechart-data.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2021 13:07:03] "[36mGET /static/assets/js/Lightweight-Chart/jquery.chart.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2021 13:07:03] "[36mGET /static/assets/js/custom-scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2021 13:07:03] "[36mGET /static/assets/materialize/js/materialize.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2021 13:07:04] "[36mGET /static/assets/font-awesome/fonts/fontawesome-webfontba72.woff?v=4.0.3 HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 283-170-574
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-368-408
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2021 19:43:59] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2021 19:43:59] "[37mGET /static/assets/css/redhat.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2021 19:43:59] "[37mGET /static/images/red-hat-1.svg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2021 19:44:00] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2021 19:44:18] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2021 19:44:19] "[37mGET /static/assets/css/custom-styles.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2021 19:44:19] "[37mGET /static/assets/css/font-awesome.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2021 19:44:19] "[37mGET /static/assets/css/bootstrap.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2021 19:44:19] "[37mGET /static/assets/materialize/css/materialize.min.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2021 19:44:19] "[37mGET /static/assets/js/Lightweight-Chart/cssCharts.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2021 19:44:19] "[37mGET /static/assets/js/morris/morris-0.4.3.min.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2021 19:44:19] "[37mGET /static/assets/js/bootstrap.min.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2021 19:44:19] "[37mGET /static/assets/js/jquery.metisMenu.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2021 19:44:19] "[37mGET /static/assets/js/jquery-1.10.2.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2021 19:44:19] "[37mGET /static/assets/js/morris/raphael-2.1.0.min.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2021 19:44:19] "[37mGET /static/assets/js/morris/morris.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2021 19:44:19] "[37mGET /static/assets/js/easypiechart.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2021 19:44:19] "[37mGET /static/assets/materialize/js/materialize.min.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2021 19:44:19] "[37mGET /static/assets/js/Lightweight-Chart/jquery.chart.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2021 19:44:19] "[37mGET /static/assets/js/custom-scripts.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2021 19:44:19] "[37mGET /static/assets/js/easypiechart-data.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2021 19:44:19] "[37mGET /static/assets/font-awesome/fonts/fontawesome-webfontba72.woff?v=4.0.3 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2021 19:44:38] "[33mGET /empty.html HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 214-694-517
+INFO:werkzeug: * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 214-694-517
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2021 21:40:00] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2021 21:40:00] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2021 21:40:10] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2021 21:40:17] "[33mGET /index.html HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2021 21:42:47] "[33mGET /ui-elements.html HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 221-970-763
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2021 11:31:25] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2021 11:31:26] "[36mGET /static/assets/css/redhat.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2021 11:31:26] "[36mGET /static/images/red-hat-1.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2021 11:31:26] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2021 11:31:31] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2021 11:31:31] "[36mGET /static/assets/css/bootstrap.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2021 11:31:31] "[36mGET /static/assets/css/font-awesome.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2021 11:31:31] "[36mGET /static/assets/materialize/css/materialize.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2021 11:31:31] "[36mGET /static/assets/css/custom-styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2021 11:31:31] "[36mGET /static/assets/js/Lightweight-Chart/cssCharts.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2021 11:31:31] "[36mGET /static/assets/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2021 11:31:31] "[36mGET /static/assets/materialize/js/materialize.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2021 11:31:31] "[36mGET /static/assets/js/morris/morris-0.4.3.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2021 11:31:31] "[36mGET /static/assets/js/jquery.metisMenu.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2021 11:31:31] "[36mGET /static/assets/js/morris/morris.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2021 11:31:31] "[36mGET /static/assets/js/morris/raphael-2.1.0.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2021 11:31:31] "[36mGET /static/assets/js/easypiechart-data.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2021 11:31:31] "[36mGET /static/assets/js/easypiechart.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2021 11:31:31] "[36mGET /static/assets/js/jquery-1.10.2.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2021 11:31:31] "[36mGET /static/assets/js/Lightweight-Chart/jquery.chart.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2021 11:31:31] "[36mGET /static/assets/js/custom-scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2021 11:31:37] "[36mGET /static/assets/font-awesome/fonts/fontawesome-webfontba72.woff?v=4.0.3 HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2021 11:32:33] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2021 11:33:53] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2021 11:34:21] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2021 11:35:34] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2021 11:42:22] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2021 11:43:09] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2021 11:43:27] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2021 11:43:43] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2021 11:44:01] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2021 11:44:16] "[33mGET /iptable HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 221-970-763
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2021 12:01:28] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 221-970-763
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2021 12:02:18] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2021 12:02:21] "[33mGET /clamav HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2021 12:02:54] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2021 12:02:55] "[37mGET /menu/antivirus HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2021 12:03:28] "[32mGET /menu HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2021 12:03:28] "[37mGET /?next=%2Fmenu HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2021 12:04:53] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2021 12:05:37] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2021 12:06:05] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2021 12:12:02] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2021 12:13:48] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2021 12:14:47] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2021 12:15:42] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 221-970-763
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 221-970-763
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2021 12:45:37] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2021 12:47:40] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2021 12:48:39] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 221-970-763
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2021 12:50:13] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2021 12:53:54] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2021 13:02:34] "[33mGET /menu/firewall HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2021 13:02:56] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2021 13:04:13] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2021 13:04:14] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2021 13:04:20] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2021 13:34:49] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2021 13:35:14] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2021 13:36:24] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2021 13:36:56] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2021 13:37:42] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2021 13:38:08] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2021 13:38:37] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2021 13:38:51] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2021 13:38:55] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2021 13:39:14] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2021 13:39:36] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2021 13:39:46] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2021 13:41:04] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2021 13:41:56] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2021 13:44:21] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2021 13:45:25] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2021 14:04:22] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2021 14:04:50] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2021 14:05:13] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2021 14:05:26] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2021 14:05:45] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2021 14:06:03] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2021 14:06:17] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2021 14:08:20] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2021 14:08:27] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2021 14:09:01] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2021 14:09:24] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2021 14:09:39] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 221-970-763
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 221-970-763
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 221-970-763
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 221-970-763
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 221-970-763
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 221-970-763
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 221-970-763
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 221-970-763
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 221-970-763
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2021 14:47:40] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2021 14:47:43] "[33mGET /antisheller HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2021 14:48:51] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2021 14:49:03] "[37mGET /menu/antisheller HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2021 14:51:47] "[37mGET /menu/antisheller HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2021 14:53:34] "[37mGET /menu/antisheller HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2021 14:56:25] "[37mGET /menu/antisheller HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2021 15:04:16] "[37mGET /menu/antisheller HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 221-970-763
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2021 15:06:19] "[37mGET /menu/antisheller HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2021 15:06:45] "[37mGET /menu/antisheller HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2021 15:07:01] "[37mGET /menu/antisheller HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2021 15:23:22] "[37mGET /menu/antisheller HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 558-882-849
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 11:00:40] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 11:00:40] "[36mGET /static/assets/css/redhat.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 11:00:41] "[36mGET /static/images/red-hat-1.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 11:00:41] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 11:00:46] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 11:00:46] "[36mGET /static/assets/css/font-awesome.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 11:00:46] "[36mGET /static/assets/js/morris/morris-0.4.3.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 11:00:46] "[36mGET /static/assets/materialize/css/materialize.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 11:00:46] "[36mGET /static/assets/css/bootstrap.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 11:00:46] "[36mGET /static/assets/js/Lightweight-Chart/cssCharts.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 11:00:46] "[36mGET /static/assets/css/custom-styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 11:00:46] "[36mGET /static/assets/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 11:00:46] "[36mGET /static/assets/js/jquery.metisMenu.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 11:00:46] "[36mGET /static/assets/js/jquery-1.10.2.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 11:00:46] "[36mGET /static/assets/js/morris/morris.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 11:00:46] "[36mGET /static/assets/js/morris/raphael-2.1.0.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 11:00:46] "[36mGET /static/assets/js/easypiechart-data.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 11:00:46] "[36mGET /static/assets/js/easypiechart.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 11:00:46] "[36mGET /static/assets/js/Lightweight-Chart/jquery.chart.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 11:00:46] "[36mGET /static/assets/js/custom-scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 11:00:46] "[36mGET /static/assets/materialize/js/materialize.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 11:00:46] "[36mGET /static/assets/font-awesome/fonts/fontawesome-webfontba72.woff?v=4.0.3 HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 11:04:39] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 11:04:57] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 11:05:13] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 11:05:43] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 11:06:08] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 11:06:50] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 11:07:22] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 11:16:30] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 11:16:41] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 11:17:44] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 11:20:14] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 11:20:18] "[35m[1mPOST /menu/antivirus/scan HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 11:20:19] "[37mGET /menu/antivirus/scan?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 11:20:19] "[37mGET /menu/antivirus/scan?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 11:20:19] "[37mGET /menu/antivirus/scan?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 11:20:19] "[37mGET /menu/antivirus/scan?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 11:20:19] "[37mGET /menu/antivirus/scan?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 11:20:39] "[35m[1mPOST /menu/antivirus/scan HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 11:20:39] "[37mGET /menu/antivirus/scan?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 11:20:39] "[37mGET /menu/antivirus/scan?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 11:20:39] "[37mGET /menu/antivirus/scan?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 11:20:40] "[37mGET /menu/antivirus/scan?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 558-882-849
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 558-882-849
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 558-882-849
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 558-882-849
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 11:23:49] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 11:23:54] "[35m[1mPOST /menu/antivirus/scan HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 11:23:54] "[37mGET /menu/antivirus/scan?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 11:23:54] "[37mGET /menu/antivirus/scan?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 11:23:54] "[37mGET /menu/antivirus/scan?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 11:23:55] "[37mGET /menu/antivirus/scan?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 558-882-849
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 558-882-849
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 558-882-849
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 558-882-849
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 11:27:58] "[37mPOST /menu/antivirus/scan HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 11:27:58] "[33mGET /menu/static/assets/materialize/css/materialize.min.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 11:27:58] "[33mGET /menu/static/assets/css/bootstrap.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 11:27:58] "[33mGET /menu/static/assets/js/morris/morris-0.4.3.min.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 11:27:58] "[33mGET /menu/static/assets/css/font-awesome.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 11:27:58] "[33mGET /menu/static/assets/css/custom-styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 11:27:58] "[33mGET /menu/static/assets/js/Lightweight-Chart/cssCharts.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 11:27:58] "[33mGET /menu/static/assets/js/jquery-1.10.2.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 11:27:58] "[33mGET /menu/static/assets/js/bootstrap.min.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 11:27:58] "[33mGET /menu/static/assets/js/jquery.metisMenu.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 11:27:58] "[33mGET /menu/static/assets/js/morris/morris.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 11:27:58] "[33mGET /menu/static/assets/materialize/js/materialize.min.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 11:27:58] "[33mGET /menu/static/assets/js/morris/raphael-2.1.0.min.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 11:27:58] "[33mGET /menu/static/assets/js/easypiechart.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 11:27:58] "[33mGET /menu/static/assets/js/easypiechart-data.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 11:27:58] "[33mGET /menu/static/assets/js/Lightweight-Chart/jquery.chart.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 11:27:58] "[33mGET /menu/static/assets/js/custom-scripts.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 11:27:58] "[33mGET /menu/static/assets/js/bootstrap.min.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 11:27:58] "[33mGET /menu/static/assets/materialize/js/materialize.min.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 11:27:58] "[33mGET /menu/static/assets/js/jquery.metisMenu.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 11:27:58] "[33mGET /menu/static/assets/js/morris/raphael-2.1.0.min.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 11:27:58] "[33mGET /menu/static/assets/js/morris/morris.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 11:27:58] "[33mGET /menu/static/assets/js/easypiechart.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 11:27:58] "[33mGET /menu/static/assets/js/easypiechart-data.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 11:27:58] "[33mGET /menu/static/assets/js/Lightweight-Chart/jquery.chart.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 11:27:58] "[33mGET /menu/static/assets/js/custom-scripts.js HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 558-882-849
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 11:28:39] "[37mPOST /menu/antivirus/scan HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 11:28:39] "[33mGET /menu/static/assets/materialize/css/materialize.min.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 11:28:39] "[33mGET /menu/static/assets/js/morris/morris-0.4.3.min.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 11:28:39] "[33mGET /menu/static/assets/css/bootstrap.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 11:28:39] "[33mGET /menu/static/assets/css/font-awesome.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 11:28:39] "[33mGET /menu/static/assets/css/custom-styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 11:28:39] "[33mGET /menu/static/assets/js/Lightweight-Chart/cssCharts.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 11:28:39] "[33mGET /menu/static/assets/js/jquery-1.10.2.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 11:28:39] "[33mGET /menu/static/assets/js/bootstrap.min.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 11:28:39] "[33mGET /menu/static/assets/materialize/js/materialize.min.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 11:28:39] "[33mGET /menu/static/assets/js/morris/raphael-2.1.0.min.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 11:28:39] "[33mGET /menu/static/assets/js/jquery.metisMenu.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 11:28:39] "[33mGET /menu/static/assets/js/morris/morris.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 11:28:39] "[33mGET /menu/static/assets/js/easypiechart.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 11:28:39] "[33mGET /menu/static/assets/js/easypiechart-data.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 11:28:39] "[33mGET /menu/static/assets/js/Lightweight-Chart/jquery.chart.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 11:28:39] "[33mGET /menu/static/assets/js/custom-scripts.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 11:28:39] "[33mGET /menu/static/assets/js/bootstrap.min.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 11:28:39] "[33mGET /menu/static/assets/materialize/js/materialize.min.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 11:28:39] "[33mGET /menu/static/assets/js/jquery.metisMenu.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 11:28:39] "[33mGET /menu/static/assets/js/morris/raphael-2.1.0.min.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 11:28:39] "[33mGET /menu/static/assets/js/morris/morris.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 11:28:39] "[33mGET /menu/static/assets/js/easypiechart.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 11:28:39] "[33mGET /menu/static/assets/js/easypiechart-data.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 11:28:39] "[33mGET /menu/static/assets/js/Lightweight-Chart/jquery.chart.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 11:28:39] "[33mGET /menu/static/assets/js/custom-scripts.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 11:28:43] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 11:28:45] "[37mGET /menu/antisheller HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 558-882-849
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 11:45:40] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 11:45:49] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 11:50:23] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 11:52:17] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 11:53:02] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 12:03:06] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 12:03:08] "[37mGET /menu/antisheller HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 12:06:21] "[37mGET /menu/antisheller HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 12:07:01] "[37mGET /menu/antisheller HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 12:07:04] "[37mGET /menu/antisheller HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 12:07:31] "[37mGET /menu/antisheller HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 558-882-849
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 12:30:33] "[37mGET /menu/antisheller HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 12:31:49] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 12:31:52] "[37mGET /menu/antirootkit HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 12:31:52] "[33mGET /menu/assets/materialize/css/materialize.min.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 12:31:52] "[33mGET /menu/assets/css/bootstrap.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 12:31:52] "[33mGET /menu/assets/css/font-awesome.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 12:31:52] "[33mGET /menu/assets/js/morris/morris-0.4.3.min.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 12:31:52] "[33mGET /menu/assets/css/custom-styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 12:31:52] "[33mGET /menu/assets/js/Lightweight-Chart/cssCharts.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 12:31:52] "[33mGET /menu/assets/js/jquery-1.10.2.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 12:31:52] "[33mGET /menu/assets/js/bootstrap.min.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 12:31:52] "[33mGET /menu/assets/materialize/js/materialize.min.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 12:31:52] "[33mGET /menu/assets/js/jquery.metisMenu.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 12:31:52] "[33mGET /menu/assets/js/custom-scripts.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 12:31:52] "[33mGET /menu/assets/js/bootstrap.min.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 12:31:52] "[33mGET /menu/assets/materialize/js/materialize.min.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 12:31:52] "[33mGET /menu/assets/js/jquery.metisMenu.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 12:31:52] "[33mGET /menu/assets/js/custom-scripts.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 12:33:15] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 12:33:17] "[37mGET /menu/antirootkit HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 12:33:51] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 12:33:54] "[37mGET /menu/antirootkit HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 558-882-849
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 558-882-849
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 558-882-849
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 558-882-849
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 558-882-849
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 558-882-849
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 558-882-849
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 12:45:41] "[37mGET /menu/antirootkit HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 558-882-849
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 558-882-849
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 12:50:06] "[37mGET /menu/antirootkit HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 12:51:16] "[37mGET /menu/antirootkit HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 12:51:23] "[37mGET /menu/antirootkit HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 12:51:47] "[37mGET /menu/antirootkit HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 12:52:17] "[37mGET /menu/antirootkit HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 558-882-849
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2021 13:04:21] "[37mGET /menu/antirootkit HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 558-882-849
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 558-882-849
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 558-882-849
+INFO:werkzeug: * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 331-541-893
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 10:23:21] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 10:23:21] "[36mGET /static/assets/css/redhat.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 10:23:21] "[36mGET /static/images/red-hat-1.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 10:23:22] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 10:23:26] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 10:23:26] "[36mGET /static/assets/css/bootstrap.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 10:23:26] "[36mGET /static/assets/css/font-awesome.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 10:23:27] "[36mGET /static/assets/css/custom-styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 10:23:27] "[36mGET /static/assets/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 10:23:27] "[36mGET /static/assets/js/Lightweight-Chart/cssCharts.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 10:23:27] "[36mGET /static/assets/js/morris/morris-0.4.3.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 10:23:27] "[36mGET /static/assets/materialize/css/materialize.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 10:23:27] "[36mGET /static/assets/materialize/js/materialize.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 10:23:27] "[36mGET /static/assets/js/morris/raphael-2.1.0.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 10:23:27] "[36mGET /static/assets/js/jquery-1.10.2.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 10:23:27] "[36mGET /static/assets/js/morris/morris.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 10:23:27] "[36mGET /static/assets/js/easypiechart-data.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 10:23:27] "[36mGET /static/assets/js/Lightweight-Chart/jquery.chart.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 10:23:27] "[36mGET /static/assets/js/easypiechart.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 10:23:27] "[36mGET /static/assets/js/jquery.metisMenu.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 10:23:27] "[36mGET /static/assets/js/custom-scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 10:23:27] "[36mGET /static/assets/font-awesome/fonts/fontawesome-webfontba72.woff?v=4.0.3 HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 10:23:30] "[37mGET /menu/backup HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 331-541-893
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 10:24:42] "[37mGET /menu/backup HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 10:25:45] "[37mGET /menu/backup HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 10:26:29] "[37mGET /menu/backup HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 10:26:45] "[37mGET /menu/backup HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 10:27:14] "[37mGET /menu/backup HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 10:27:29] "[37mGET /menu/backup HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 10:27:50] "[37mGET /menu/backup HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 10:28:06] "[37mGET /menu/backup HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 10:28:39] "[37mGET /menu/backup HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 10:29:29] "[37mGET /menu/backup HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 10:29:53] "[37mGET /menu/backup HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 10:30:19] "[37mGET /menu/backup HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 10:30:31] "[37mGET /menu/backup HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 10:31:03] "[37mGET /menu/backup HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 10:31:16] "[37mGET /menu/backup HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 10:31:18] "[37mGET /menu/backup HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 10:31:30] "[37mGET /menu/backup HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 10:32:28] "[37mGET /menu/backup HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 10:33:40] "[37mGET /menu/backup HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 10:34:00] "[37mGET /menu/backup HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 10:34:27] "[37mGET /menu/backup HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 10:36:25] "[37mGET /menu/backup HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 10:38:08] "[37mGET /menu/backup HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 10:38:40] "[37mGET /menu/backup HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 10:39:07] "[37mGET /menu/backup HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 10:43:23] "[37mGET /menu/backup HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 10:43:24] "[37mGET /menu/backup HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 10:43:45] "[37mGET /menu/backup HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 10:44:23] "[37mGET /menu/backup HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 10:44:40] "[37mGET /menu/backup HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 10:44:52] "[37mGET /menu/backup HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 10:46:05] "[37mGET /menu/backup HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 10:46:35] "[37mGET /menu/backup HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 10:47:03] "[37mGET /menu/backup HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 10:47:19] "[37mGET /menu/backup HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 10:47:36] "[37mGET /menu/backup HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 10:48:11] "[37mGET /menu/backup HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 10:49:33] "[37mGET /menu/backup HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 10:50:02] "[37mGET /menu/backup HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 10:50:23] "[37mGET /menu/backup HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 10:51:05] "[37mGET /menu/backup HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 10:51:28] "[37mGET /menu/backup HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 10:51:39] "[37mGET /menu/backup HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 10:52:37] "[37mGET /menu/backup HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 10:53:39] "[37mGET /menu/backup HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 10:54:20] "[37mGET /menu/backup HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 10:54:44] "[37mGET /menu/backup HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 10:55:49] "[37mGET /menu/backup HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 10:55:58] "[37mGET /menu/backup HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 10:56:08] "[37mGET /menu/antisheller HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 10:56:12] "[37mGET /menu/antisheller HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 10:56:19] "[37mGET /menu/antirootkit HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 10:56:26] "[37mGET /menu/backup HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 10:56:32] "[33mGET /menu/firewall HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 10:57:20] "[37mGET /menu/antisheller HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 10:57:31] "[37mGET /menu/antirootkit HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 11:14:15] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 11:14:36] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 11:16:54] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 11:17:31] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 11:18:16] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 11:49:48] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 11:50:07] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 11:50:16] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 11:50:42] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 11:50:56] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 11:51:25] "[37mGET /menu/antisheller HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 11:51:31] "[37mGET /menu/antisheller HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 11:51:44] "[37mGET /menu/antisheller HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 11:51:57] "[37mGET /menu/antisheller HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 11:52:14] "[37mGET /menu/antisheller HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 11:52:20] "[37mGET /menu/antirootkit HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 11:52:44] "[37mGET /menu/antirootkit HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 11:52:49] "[37mGET /menu/antirootkit HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 11:53:03] "[37mGET /menu/antirootkit HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 11:53:11] "[37mGET /menu/antirootkit HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 11:53:32] "[37mGET /menu/antirootkit HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 11:53:57] "[37mGET /menu/backup HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 11:54:55] "[37mGET /menu/backup HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 11:55:24] "[37mGET /menu/backup HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 11:55:43] "[37mGET /menu/backup HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 11:55:53] "[37mGET /menu/backup HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 11:55:59] "[37mGET /menu/backup HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 11:56:20] "[37mGET /menu/backup HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 11:57:13] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 11:57:33] "[37mGET /menu/backup HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 11:57:37] "[33mGET /menu/firewall HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 11:57:45] "[33mGET /empty.html HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 331-541-893
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 12:05:21] "[33mGET /menu/checksums HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 12:06:56] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 331-541-893
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 12:09:33] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 12:09:35] "[31m[1mGET /menu/checksums HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 12:09:37] "[31m[1mGET /menu/checksums HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 12:09:37] "[31m[1mGET /menu/checksums HTTP/1.1[0m" 405 -
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 331-541-893
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 12:10:13] "[37mGET /menu/checksums HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 331-541-893
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 331-541-893
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 12:11:07] "[37mGET /menu/checksums HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 12:11:31] "[37mGET /menu/checksums HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 12:11:53] "[37mGET /menu/checksums HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 12:12:40] "[37mGET /menu/checksums HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 331-541-893
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 331-541-893
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 13:30:27] "[37mGET /menu/checksums HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 13:31:12] "[37mGET /menu/checksums HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 13:32:09] "[37mGET /menu/checksums HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 13:32:47] "[37mGET /menu/checksums HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 331-541-893
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 13:34:09] "[37mGET /menu/checksums HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 13:34:10] "[37mGET /menu/checksums HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 13:34:41] "[37mGET /menu/checksums HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 13:34:57] "[37mGET /menu/checksums HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 13:34:59] "[37mGET /menu/checksums HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 13:35:48] "[37mGET /menu/checksums HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 331-541-893
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 331-541-893
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 13:36:53] "[37mGET /menu/checksums HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 331-541-893
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 331-541-893
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 331-541-893
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 331-541-893
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 331-541-893
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 331-541-893
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 331-541-893
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 331-541-893
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 331-541-893
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 331-541-893
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:22:53] "[37mGET /menu/checksums HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 331-541-893
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 331-541-893
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:23:25] "[37mGET /menu/checksums HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:23:59] "[37mGET /menu/checksums HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:24:05] "[35m[1mPOST /menu/checksums HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:24:05] "[37mGET /menu/checksums?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:24:05] "[37mGET /menu/checksums?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:24:05] "[37mGET /menu/checksums?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:24:05] "[37mGET /menu/checksums?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:24:06] "[37mGET /menu/checksums?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 331-541-893
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:24:46] "[35m[1mPOST /menu/checksums HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:24:46] "[37mGET /menu/checksums?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:24:46] "[37mGET /menu/checksums?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:24:47] "[37mGET /menu/checksums?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:24:47] "[37mGET /menu/checksums?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:24:47] "[37mGET /menu/checksums?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 331-541-893
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:28:05] "[35m[1mPOST /menu/checksums HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:28:05] "[37mGET /menu/checksums?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:28:05] "[37mGET /menu/checksums?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:28:05] "[37mGET /menu/checksums?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:28:05] "[37mGET /menu/checksums?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:28:05] "[37mGET /menu/checksums?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:28:08] "[37mGET /menu/checksums HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:28:25] "[35m[1mPOST /menu/checksums HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:28:25] "[37mGET /menu/checksums?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:28:25] "[37mGET /menu/checksums?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:28:25] "[37mGET /menu/checksums?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:28:25] "[37mGET /menu/checksums?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:28:25] "[37mGET /menu/checksums?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 331-541-893
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 331-541-893
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 331-541-893
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 331-541-893
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:30:09] "[35m[1mPOST /menu/checksums HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:30:09] "[37mGET /menu/checksums?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:30:09] "[37mGET /menu/checksums?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:30:09] "[37mGET /menu/checksums?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:30:09] "[37mGET /menu/checksums?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:30:09] "[37mGET /menu/checksums?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 331-541-893
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:30:51] "[35m[1mPOST /menu/checksums HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:30:51] "[37mGET /menu/checksums?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:30:51] "[37mGET /menu/checksums?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:30:51] "[37mGET /menu/checksums?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:30:51] "[37mGET /menu/checksums?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:30:51] "[37mGET /menu/checksums?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 331-541-893
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 331-541-893
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 331-541-893
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 331-541-893
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:35:20] "[35m[1mPOST /menu/checksums HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:35:20] "[37mGET /menu/checksums?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:35:20] "[37mGET /menu/checksums?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:35:20] "[37mGET /menu/checksums?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:35:20] "[37mGET /menu/checksums?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:35:20] "[37mGET /menu/checksums?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 331-541-893
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 331-541-893
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 331-541-893
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 331-541-893
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 331-541-893
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 331-541-893
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 331-541-893
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 331-541-893
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:42:11] "[35m[1mPOST /menu/checksums HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:42:11] "[37mGET /menu/checksums?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:42:11] "[37mGET /menu/checksums?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:42:11] "[37mGET /menu/checksums?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:42:11] "[37mGET /menu/checksums?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:42:11] "[37mGET /menu/checksums?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:42:17] "[37mGET /menu/checksums HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:42:24] "[35m[1mPOST /menu/checksums HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:42:24] "[37mGET /menu/checksums?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:42:24] "[37mGET /menu/checksums?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:42:24] "[37mGET /menu/checksums?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:42:24] "[37mGET /menu/checksums?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:42:24] "[37mGET /menu/checksums?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 331-541-893
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:44:04] "[37mGET /menu/checksums HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:44:39] "[37mGET /menu/checksums HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:44:40] "[37mGET /menu/checksums HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 331-541-893
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 331-541-893
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 331-541-893
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 331-541-893
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 331-541-893
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:46:44] "[37mGET /menu/checksums HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:48:30] "[37mGET /menu/checksums HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:48:40] "[35m[1mPOST /menu/checksums HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:48:40] "[37mGET /menu/checksums?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:48:40] "[37mGET /menu/checksums?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:48:40] "[37mGET /menu/checksums?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:48:40] "[37mGET /menu/checksums?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:48:40] "[37mGET /menu/checksums?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:48:58] "[35m[1mPOST /menu/checksums HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:48:58] "[37mGET /menu/checksums?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:48:58] "[37mGET /menu/checksums?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:48:58] "[37mGET /menu/checksums?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:48:59] "[37mGET /menu/checksums?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:48:59] "[37mGET /menu/checksums?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:49:06] "[35m[1mPOST /menu/checksums HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:49:06] "[37mGET /menu/checksums?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:49:06] "[37mGET /menu/checksums?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:49:06] "[37mGET /menu/checksums?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:49:06] "[37mGET /menu/checksums?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:49:06] "[37mGET /menu/checksums?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:49:09] "[35m[1mPOST /menu/checksums HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:49:09] "[37mGET /menu/checksums?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:49:09] "[37mGET /menu/checksums?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:49:09] "[37mGET /menu/checksums?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:49:09] "[37mGET /menu/checksums?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:49:09] "[37mGET /menu/checksums?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 331-541-893
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:49:19] "[35m[1mPOST /menu/checksums HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:49:19] "[37mGET /menu/checksums?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:49:19] "[37mGET /menu/checksums?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:49:19] "[37mGET /menu/checksums?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:49:19] "[37mGET /menu/checksums?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:49:19] "[37mGET /menu/checksums?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:49:27] "[37mGET /menu/checksums HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:49:35] "[35m[1mPOST /menu/checksums HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:49:35] "[37mGET /menu/checksums?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:49:35] "[37mGET /menu/checksums?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:49:35] "[37mGET /menu/checksums?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:49:35] "[37mGET /menu/checksums?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:49:35] "[37mGET /menu/checksums?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:50:31] "[35m[1mPOST /menu/checksums HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:50:31] "[37mGET /menu/checksums?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:50:31] "[37mGET /menu/checksums?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:50:31] "[37mGET /menu/checksums?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:50:31] "[37mGET /menu/checksums?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:50:31] "[37mGET /menu/checksums?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 331-541-893
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 331-541-893
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 331-541-893
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 331-541-893
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:51:01] "[37mGET /menu/checksums HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:51:11] "[35m[1mPOST /menu/checksums HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:51:11] "[37mGET /menu/checksums?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:51:11] "[37mGET /menu/checksums?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:51:11] "[37mGET /menu/checksums?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:51:11] "[37mGET /menu/checksums?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:51:11] "[37mGET /menu/checksums?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 161-184-114
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 13:57:02] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 13:57:02] "[36mGET /static/assets/css/redhat.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 13:57:02] "[36mGET /static/images/red-hat-1.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 13:57:03] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 13:57:08] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 13:57:08] "[36mGET /static/assets/materialize/css/materialize.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 13:57:08] "[36mGET /static/assets/css/bootstrap.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 13:57:08] "[36mGET /static/assets/js/morris/morris-0.4.3.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 13:57:08] "[36mGET /static/assets/css/font-awesome.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 13:57:08] "[36mGET /static/assets/css/custom-styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 13:57:08] "[36mGET /static/assets/js/Lightweight-Chart/cssCharts.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 13:57:08] "[36mGET /static/assets/js/jquery-1.10.2.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 13:57:08] "[36mGET /static/assets/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 13:57:08] "[36mGET /static/assets/materialize/js/materialize.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 13:57:08] "[36mGET /static/assets/js/morris/raphael-2.1.0.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 13:57:08] "[36mGET /static/assets/js/morris/morris.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 13:57:08] "[36mGET /static/assets/js/easypiechart.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 13:57:08] "[36mGET /static/assets/js/jquery.metisMenu.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 13:57:08] "[36mGET /static/assets/js/easypiechart-data.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 13:57:08] "[36mGET /static/assets/js/Lightweight-Chart/jquery.chart.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 13:57:08] "[36mGET /static/assets/js/custom-scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 13:57:09] "[36mGET /static/assets/font-awesome/fonts/fontawesome-webfontba72.woff?v=4.0.3 HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 13:57:11] "[37mGET /menu/checksums HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 13:57:20] "[35m[1mPOST /menu/checksums HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 13:57:20] "[37mGET /menu/checksums?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 13:57:20] "[37mGET /menu/checksums?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 13:57:20] "[37mGET /menu/checksums?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 13:57:21] "[37mGET /menu/checksums?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 13:57:21] "[37mGET /menu/checksums?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 161-184-114
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 13:58:09] "[37mPOST /menu/checksums HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 13:58:18] "[37mPOST /menu/checksums HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 14:41:33] "[37mPOST /menu/checksums HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 161-184-114
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 14:42:46] "[37mPOST /menu/checksums HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 161-184-114
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 161-184-114
+INFO:werkzeug: * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 161-184-114
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 161-184-114
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 14:46:07] "[37mPOST /menu/checksums HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 14:46:14] "[37mPOST /menu/checksums HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 14:46:21] "[37mPOST /menu/checksums HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 161-184-114
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 161-184-114
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 161-184-114
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 161-184-114
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 161-184-114
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 14:47:06] "[35m[1mPOST /menu/checksums HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 14:47:06] "[37mGET /menu/checksums?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 14:47:06] "[37mGET /menu/checksums?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 14:47:06] "[37mGET /menu/checksums?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 14:47:06] "[37mGET /menu/checksums?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 14:47:06] "[37mGET /menu/checksums?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 161-184-114
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 161-184-114
+INFO:werkzeug: * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 161-184-114
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 14:47:30] "[37mPOST /menu/checksums HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 14:47:43] "[37mPOST /menu/checksums HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 161-184-114
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 161-184-114
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 161-184-114
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 161-184-114
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 14:50:16] "[37mPOST /menu/checksums HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 14:50:21] "[37mPOST /menu/checksums HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 161-184-114
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 14:53:16] "[37mPOST /menu/checksums HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 161-184-114
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 161-184-114
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 161-184-114
+INFO:werkzeug: * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 161-184-114
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 14:54:25] "[37mPOST /menu/checksums HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 161-184-114
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 161-184-114
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 161-184-114
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 161-184-114
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 161-184-114
+INFO:werkzeug: * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 161-184-114
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 161-184-114
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 161-184-114
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 161-184-114
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 161-184-114
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 15:03:11] "[35m[1mPOST /menu/checksums HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 15:03:11] "[37mGET /menu/checksums?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 15:03:11] "[37mGET /menu/checksums?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 15:03:11] "[37mGET /menu/checksums?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 15:03:12] "[37mGET /menu/checksums?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 15:03:12] "[37mGET /menu/checksums?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 161-184-114
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 161-184-114
+INFO:werkzeug: * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 161-184-114
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 15:03:36] "[37mPOST /menu/checksums HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 15:03:48] "[37mPOST /menu/checksums HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 15:08:34] "[35m[1mPOST /menu/checksums HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 15:08:34] "[37mGET /menu/checksums?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 15:08:34] "[37mGET /menu/checksums?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 15:08:34] "[37mGET /menu/checksums?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 15:08:34] "[37mGET /menu/checksums?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 15:08:34] "[37mGET /menu/checksums?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 15:08:42] "[35m[1mPOST /menu/checksums HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 15:08:42] "[37mGET /menu/checksums?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 15:08:42] "[37mGET /menu/checksums?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 15:08:42] "[37mGET /menu/checksums?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 15:08:42] "[37mGET /menu/checksums?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 15:08:42] "[37mGET /menu/checksums?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 161-184-114
+INFO:werkzeug: * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 161-184-114
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 15:23:12] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 15:23:21] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 15:23:32] "[33mGET /menu/firewall HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 15:23:35] "[37mGET /menu/antisheller HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 15:23:49] "[37mGET /menu/antirootkit HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 15:23:57] "[37mGET /menu/backup HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 161-184-114
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 161-184-114
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 161-184-114
+INFO:werkzeug: * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 901-670-373
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 11:29:37] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 11:29:38] "[36mGET /static/assets/css/redhat.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 11:29:38] "[36mGET /static/images/red-hat-1.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 11:29:38] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 11:29:43] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 11:29:43] "[36mGET /static/assets/materialize/css/materialize.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 11:29:44] "[36mGET /static/assets/css/bootstrap.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 11:29:44] "[36mGET /static/assets/css/font-awesome.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 11:29:44] "[36mGET /static/assets/js/morris/morris-0.4.3.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 11:29:44] "[36mGET /static/assets/css/custom-styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 11:29:44] "[36mGET /static/assets/js/Lightweight-Chart/cssCharts.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 11:29:44] "[36mGET /static/assets/js/jquery-1.10.2.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 11:29:44] "[36mGET /static/assets/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 11:29:44] "[36mGET /static/assets/js/jquery.metisMenu.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 11:29:44] "[36mGET /static/assets/js/morris/morris.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 11:29:44] "[36mGET /static/assets/materialize/js/materialize.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 11:29:44] "[36mGET /static/assets/js/morris/raphael-2.1.0.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 11:29:44] "[36mGET /static/assets/js/easypiechart.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 11:29:44] "[36mGET /static/assets/js/easypiechart-data.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 11:29:44] "[36mGET /static/assets/js/custom-scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 11:29:44] "[36mGET /static/assets/js/Lightweight-Chart/jquery.chart.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 11:29:45] "[36mGET /static/assets/font-awesome/fonts/fontawesome-webfontba72.woff?v=4.0.3 HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 11:29:47] "[33mGET /menu/firewall HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 901-670-373
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 11:30:19] "[33mGET /menu/firewall HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 11:30:19] "[33mGET /menu/firewall HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 11:30:22] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 11:30:24] "[33mGET /menu/firewall HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 901-670-373
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 11:31:32] "[37mGET /menu/firewall HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 11:31:32] "[37mGET /static/assets/js/dataTables/dataTables.bootstrap.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 11:31:32] "[37mGET /static/assets/js/dataTables/jquery.dataTables.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 11:33:48] "[37mGET /menu/firewall HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 11:34:22] "[37mGET /menu/firewall HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 11:42:30] "[37mGET /menu/firewall HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 11:43:19] "[37mGET /menu/firewall HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 11:43:52] "[37mGET /menu/firewall HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 12:14:58] "[37mGET /menu/firewall HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 12:15:24] "[37mGET /menu/firewall HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 15:09:29] "[37mGET /menu/firewall HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 15:09:49] "[37mGET /menu/firewall HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 15:09:56] "[37mGET /menu/firewall HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 15:10:01] "[37mGET /menu/firewall HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 15:11:21] "[37mGET /menu/firewall HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 15:13:02] "[37mGET /menu/firewall HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 15:14:11] "[37mGET /menu/firewall HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 15:14:20] "[37mGET /menu/firewall HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 15:14:43] "[37mGET /menu/firewall HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 15:15:47] "[37mGET /menu/firewall HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 15:15:59] "[37mGET /menu/firewall HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 15:17:05] "[37mGET /menu/firewall HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 15:17:17] "[37mGET /menu/firewall HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 15:17:19] "[37mGET /menu/firewall HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 15:17:27] "[37mGET /menu/firewall HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 15:17:28] "[37mGET /menu/firewall HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 15:17:34] "[37mGET /menu/firewall HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 15:18:28] "[37mGET /menu/firewall HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 15:19:07] "[37mGET /menu/firewall HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 15:19:17] "[37mGET /menu/firewall HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 15:20:03] "[37mGET /menu/firewall HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 15:20:26] "[37mGET /menu/firewall HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 15:20:46] "[37mGET /menu/firewall HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 15:21:24] "[37mGET /menu/firewall HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 15:21:38] "[37mGET /menu/firewall HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 15:24:49] "[37mGET /menu/firewall HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 15:25:30] "[37mGET /menu/firewall HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 15:30:49] "[37mGET /menu/firewall HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 15:32:09] "[37mGET /menu/firewall HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 15:32:24] "[37mGET /menu/firewall HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 15:41:26] "[37mGET /menu/firewall HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 15:42:25] "[37mGET /menu/firewall HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 15:47:29] "[37mGET /menu/firewall HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 15:47:52] "[37mGET /menu/firewall HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 15:48:12] "[37mGET /menu/firewall HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 15:49:26] "[37mGET /menu/firewall HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 15:49:43] "[37mGET /menu/firewall HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 15:51:30] "[37mGET /menu/firewall HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 15:52:54] "[37mGET /menu/firewall HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 15:53:40] "[37mGET /menu/firewall HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 15:53:59] "[37mGET /menu/firewall HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 15:54:09] "[37mGET /menu/firewall HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 15:54:22] "[37mGET /menu/firewall HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 15:54:25] "[37mGET /menu/firewall HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 15:54:35] "[37mGET /menu/firewall HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 15:54:56] "[37mGET /menu/firewall HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 15:55:04] "[37mGET /menu/firewall HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 15:55:10] "[37mGET /menu/firewall HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 15:55:14] "[37mGET /menu/firewall HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 15:57:36] "[37mGET /menu/firewall HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 15:57:57] "[37mGET /menu/firewall HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 15:58:32] "[37mGET /menu/firewall HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 15:59:10] "[37mGET /menu/firewall HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 15:59:22] "[37mGET /menu/firewall HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 15:59:29] "[37mGET /menu/firewall HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 901-670-373
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 16:00:35] "[37mGET /menu/firewall HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 16:00:38] "[37mGET /menu/firewall HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 711-861-610
+INFO:werkzeug:127.0.0.1 - - [05/May/2021 19:09:18] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/May/2021 19:09:18] "[36mGET /static/assets/css/redhat.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/May/2021 19:09:18] "[36mGET /static/images/red-hat-1.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/May/2021 19:09:18] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [05/May/2021 19:09:25] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/May/2021 19:09:25] "[36mGET /static/assets/css/bootstrap.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/May/2021 19:09:25] "[36mGET /static/assets/css/font-awesome.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/May/2021 19:09:25] "[36mGET /static/assets/css/custom-styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/May/2021 19:09:25] "[36mGET /static/assets/js/Lightweight-Chart/cssCharts.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/May/2021 19:09:25] "[36mGET /static/assets/js/morris/morris-0.4.3.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/May/2021 19:09:25] "[36mGET /static/assets/materialize/css/materialize.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/May/2021 19:09:25] "[37mGET /static/assets/js/jquery-1.10.2.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/May/2021 19:09:25] "[36mGET /static/assets/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/May/2021 19:09:26] "[36mGET /static/assets/js/morris/raphael-2.1.0.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/May/2021 19:09:26] "[36mGET /static/assets/js/easypiechart.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/May/2021 19:09:26] "[36mGET /static/assets/js/jquery.metisMenu.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/May/2021 19:09:26] "[36mGET /static/assets/js/Lightweight-Chart/jquery.chart.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/May/2021 19:09:26] "[36mGET /static/assets/materialize/js/materialize.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/May/2021 19:09:26] "[36mGET /static/assets/js/easypiechart-data.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/May/2021 19:09:26] "[36mGET /static/assets/js/morris/morris.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/May/2021 19:09:26] "[36mGET /static/assets/js/custom-scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/May/2021 19:09:26] "[36mGET /static/assets/font-awesome/fonts/fontawesome-webfontba72.woff?v=4.0.3 HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/May/2021 19:09:30] "[37mGET /menu/firewall HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/May/2021 19:09:30] "[36mGET /static/assets/js/dataTables/dataTables.bootstrap.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/May/2021 19:09:30] "[37mGET /static/assets/js/dataTables/jquery.dataTables.js HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 711-861-610
+INFO:werkzeug:127.0.0.1 - - [05/May/2021 19:11:54] "[37mGET /menu/firewall HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/May/2021 19:11:55] "[37mGET /menu/firewall HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/May/2021 19:13:53] "[37mGET /menu/firewall HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/May/2021 19:15:19] "[37mGET /menu/firewall HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/May/2021 19:15:51] "[37mGET /menu/firewall HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/May/2021 19:16:12] "[37mGET /menu/firewall HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/May/2021 19:17:14] "[37mGET /menu/firewall HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/May/2021 19:56:44] "[37mGET /menu/firewall HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 711-861-610
+INFO:werkzeug:127.0.0.1 - - [05/May/2021 20:04:50] "[37mGET /menu/firewall HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/May/2021 20:07:42] "[37mGET /menu/firewall HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/May/2021 20:08:09] "[37mGET /menu/firewall HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/May/2021 20:08:12] "[37mGET /menu/firewall HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/May/2021 20:09:11] "[37mGET /menu/firewall HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/May/2021 20:09:13] "[37mGET /menu/firewall HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/May/2021 20:09:38] "[37mGET /menu/firewall HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/May/2021 20:10:21] "[37mGET /menu/antirootkit HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/May/2021 20:10:24] "[37mGET /menu/backup HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/May/2021 20:10:30] "[33mGET /empty.html HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 162-764-013
+INFO:werkzeug:127.0.0.1 - - [08/May/2021 18:28:17] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/May/2021 18:28:17] "[37mGET /static/assets/css/redhat.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/May/2021 18:28:17] "[37mGET /static/images/red-hat-1.svg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/May/2021 18:28:27] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/May/2021 18:28:27] "[37mGET /static/assets/materialize/css/materialize.min.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/May/2021 18:28:27] "[37mGET /static/assets/css/font-awesome.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/May/2021 18:28:27] "[37mGET /static/assets/css/bootstrap.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/May/2021 18:28:27] "[37mGET /static/assets/css/custom-styles.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/May/2021 18:28:27] "[37mGET /static/assets/materialize/js/materialize.min.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/May/2021 18:28:27] "[37mGET /static/assets/js/jquery-1.10.2.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/May/2021 18:28:27] "[37mGET /static/assets/js/morris/morris-0.4.3.min.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/May/2021 18:28:27] "[37mGET /static/assets/js/bootstrap.min.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/May/2021 18:28:27] "[37mGET /static/assets/js/jquery.metisMenu.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/May/2021 18:28:27] "[37mGET /static/assets/js/Lightweight-Chart/cssCharts.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/May/2021 18:28:27] "[37mGET /static/assets/js/easypiechart.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/May/2021 18:28:27] "[37mGET /static/assets/js/morris/raphael-2.1.0.min.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/May/2021 18:28:27] "[37mGET /static/assets/js/Lightweight-Chart/jquery.chart.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/May/2021 18:28:27] "[37mGET /static/assets/js/morris/morris.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/May/2021 18:28:27] "[37mGET /static/assets/js/custom-scripts.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/May/2021 18:28:27] "[37mGET /static/assets/js/easypiechart-data.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/May/2021 18:28:28] "[37mGET /static/assets/font-awesome/fonts/fontawesome-webfontba72.woff?v=4.0.3 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/May/2021 18:28:41] "[37mGET /menu/firewall HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/May/2021 18:28:41] "[37mGET /static/assets/js/dataTables/dataTables.bootstrap.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/May/2021 18:28:41] "[37mGET /static/assets/js/dataTables/jquery.dataTables.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/May/2021 18:28:46] "[37mGET /menu/antisheller HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/May/2021 18:28:49] "[37mGET /menu/antirootkit HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/May/2021 18:28:53] "[37mGET /menu/backup HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 133-838-801
+INFO:werkzeug: * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 483-150-546
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 483-150-546
+INFO:werkzeug:127.0.0.1 - - [24/May/2021 20:16:44] "[31m[1mGET //menu/hashcal HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2021 20:16:44] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 483-150-546
+INFO:werkzeug:127.0.0.1 - - [24/May/2021 20:16:55] "[35m[1mGET //menu/hashcal HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2021 20:16:55] "[37mGET //menu/hashcal?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2021 20:16:55] "[37mGET //menu/hashcal?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2021 20:16:55] "[37mGET //menu/hashcal?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2021 20:16:56] "[37mGET //menu/hashcal?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2021 20:16:56] "[37mGET //menu/hashcal?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/RedHat/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 596-502-346
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 11:47:45] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 11:47:45] "GET /static/assets/css/redhat.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 11:47:45] "GET /static/images/red-hat-1.svg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 11:47:45] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 11:47:50] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 11:47:51] "GET /static/assets/materialize/css/materialize.min.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 11:47:51] "GET /static/assets/css/bootstrap.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 11:47:51] "GET /static/assets/css/font-awesome.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 11:47:51] "GET /static/assets/js/Lightweight-Chart/cssCharts.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 11:47:51] "GET /static/assets/js/morris/morris-0.4.3.min.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 11:47:51] "GET /static/assets/css/custom-styles.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 11:47:51] "GET /static/assets/materialize/js/materialize.min.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 11:47:51] "GET /static/assets/js/jquery.metisMenu.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 11:47:51] "GET /static/assets/js/bootstrap.min.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 11:47:51] "GET /static/assets/js/jquery-1.10.2.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 11:47:51] "GET /static/assets/js/morris/raphael-2.1.0.min.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 11:47:51] "GET /static/assets/js/morris/morris.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 11:47:51] "GET /static/assets/js/easypiechart.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 11:47:51] "GET /static/assets/js/easypiechart-data.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 11:47:51] "GET /static/assets/js/Lightweight-Chart/jquery.chart.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 11:47:51] "GET /static/assets/js/custom-scripts.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 11:47:53] "GET /static/assets/font-awesome/fonts/fontawesome-webfontba72.woff?v=4.0.3 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 11:47:56] "GET /menu/antirootkit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 11:47:56] "[36mGET /static/assets/css/font-awesome.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 11:47:56] "[36mGET /static/assets/materialize/css/materialize.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 11:47:56] "[36mGET /static/assets/css/custom-styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 11:47:56] "[36mGET /static/assets/css/bootstrap.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 11:47:56] "[36mGET /static/assets/js/morris/morris-0.4.3.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 11:47:56] "[36mGET /static/assets/js/Lightweight-Chart/cssCharts.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 11:47:56] "[36mGET /static/assets/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 11:47:56] "[36mGET /static/assets/js/jquery-1.10.2.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 11:47:56] "[36mGET /static/assets/js/jquery.metisMenu.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 11:47:56] "[36mGET /static/assets/materialize/js/materialize.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 11:47:56] "[36mGET /static/assets/js/custom-scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 11:49:18] "GET /menu/antirootkit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 11:49:18] "[36mGET /static/assets/materialize/css/materialize.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 11:49:18] "[36mGET /static/assets/css/bootstrap.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 11:49:18] "[36mGET /static/assets/css/font-awesome.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 11:49:18] "[36mGET /static/assets/css/custom-styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 11:49:18] "[36mGET /static/assets/js/morris/morris-0.4.3.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 11:49:18] "[36mGET /static/assets/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 11:49:18] "[36mGET /static/assets/materialize/js/materialize.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 11:49:18] "[36mGET /static/assets/js/jquery-1.10.2.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 11:49:18] "[36mGET /static/assets/js/Lightweight-Chart/cssCharts.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 11:49:18] "[36mGET /static/assets/js/jquery.metisMenu.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 11:49:18] "[36mGET /static/assets/js/custom-scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 11:49:53] "GET /menu/antirootkit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 11:49:54] "[36mGET /static/assets/materialize/css/materialize.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 11:49:54] "[36mGET /static/assets/js/morris/morris-0.4.3.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 11:49:54] "[36mGET /static/assets/css/custom-styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 11:49:54] "[36mGET /static/assets/css/bootstrap.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 11:49:54] "[36mGET /static/assets/css/font-awesome.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 11:49:54] "[36mGET /static/assets/js/Lightweight-Chart/cssCharts.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 11:49:54] "[36mGET /static/assets/js/jquery-1.10.2.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 11:49:54] "[36mGET /static/assets/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 11:49:54] "[36mGET /static/assets/js/custom-scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 11:49:54] "[36mGET /static/assets/materialize/js/materialize.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 11:49:54] "[36mGET /static/assets/js/jquery.metisMenu.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 11:49:55] "GET /menu/antirootkit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 11:49:55] "[36mGET /static/assets/materialize/css/materialize.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 11:49:55] "[36mGET /static/assets/css/bootstrap.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 11:49:55] "[36mGET /static/assets/css/font-awesome.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 11:49:55] "[36mGET /static/assets/js/morris/morris-0.4.3.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 11:49:55] "[36mGET /static/assets/css/custom-styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 11:49:55] "[36mGET /static/assets/js/jquery-1.10.2.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 11:49:55] "[36mGET /static/assets/js/Lightweight-Chart/cssCharts.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 11:49:55] "[36mGET /static/assets/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 11:49:55] "[36mGET /static/assets/materialize/js/materialize.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 11:49:55] "[36mGET /static/assets/js/jquery.metisMenu.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 11:49:55] "[36mGET /static/assets/js/custom-scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/Hamed/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 596-502-346
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 11:53:23] "GET /menu/antirootkit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 11:53:23] "[36mGET /static/assets/materialize/css/materialize.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 11:53:23] "[36mGET /static/assets/css/bootstrap.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 11:53:23] "[36mGET /static/assets/css/font-awesome.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 11:53:23] "[36mGET /static/assets/js/morris/morris-0.4.3.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 11:53:23] "[36mGET /static/assets/js/Lightweight-Chart/cssCharts.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 11:53:23] "[36mGET /static/assets/js/jquery-1.10.2.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 11:53:23] "[36mGET /static/assets/materialize/js/materialize.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 11:53:23] "[36mGET /static/assets/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 11:53:23] "[36mGET /static/assets/css/custom-styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 11:53:23] "[36mGET /static/assets/js/jquery.metisMenu.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 11:53:23] "[36mGET /static/assets/js/custom-scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 11:53:24] "GET /menu/antirootkit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 11:53:24] "[36mGET /static/assets/materialize/css/materialize.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 11:53:24] "[36mGET /static/assets/css/font-awesome.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 11:53:24] "[36mGET /static/assets/css/bootstrap.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 11:53:24] "[36mGET /static/assets/js/morris/morris-0.4.3.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 11:53:24] "[36mGET /static/assets/js/jquery-1.10.2.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 11:53:24] "[36mGET /static/assets/js/Lightweight-Chart/cssCharts.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 11:53:24] "[36mGET /static/assets/css/custom-styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 11:53:24] "[36mGET /static/assets/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 11:53:24] "[36mGET /static/assets/materialize/js/materialize.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 11:53:24] "[36mGET /static/assets/js/jquery.metisMenu.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 11:53:24] "[36mGET /static/assets/js/custom-scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 11:53:47] "GET /menu/antirootkit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 11:53:47] "[36mGET /static/assets/materialize/css/materialize.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 11:53:47] "[36mGET /static/assets/css/bootstrap.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 11:53:47] "[36mGET /static/assets/css/custom-styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 11:53:47] "[36mGET /static/assets/js/morris/morris-0.4.3.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 11:53:47] "[36mGET /static/assets/css/font-awesome.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 11:53:47] "[36mGET /static/assets/js/Lightweight-Chart/cssCharts.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 11:53:47] "[36mGET /static/assets/js/jquery-1.10.2.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 11:53:47] "[36mGET /static/assets/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 11:53:47] "[36mGET /static/assets/materialize/js/materialize.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 11:53:47] "[36mGET /static/assets/js/jquery.metisMenu.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 11:53:47] "[36mGET /static/assets/js/custom-scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 11:55:33] "GET /menu/antirootkit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 11:55:33] "[36mGET /static/assets/materialize/css/materialize.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 11:55:33] "[36mGET /static/assets/css/bootstrap.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 11:55:33] "[36mGET /static/assets/css/font-awesome.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 11:55:33] "[36mGET /static/assets/js/morris/morris-0.4.3.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 11:55:33] "[36mGET /static/assets/css/custom-styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 11:55:33] "[36mGET /static/assets/js/jquery-1.10.2.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 11:55:33] "[36mGET /static/assets/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 11:55:33] "[36mGET /static/assets/materialize/js/materialize.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 11:55:33] "[36mGET /static/assets/js/Lightweight-Chart/cssCharts.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 11:55:33] "[36mGET /static/assets/js/jquery.metisMenu.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 11:55:33] "[36mGET /static/assets/js/custom-scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/Hamed/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 596-502-346
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/Hamed/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 596-502-346
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/Hamed/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 596-502-346
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/Hamed/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 596-502-346
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/Hamed/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 596-502-346
+INFO:werkzeug: * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 596-502-346
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 12:00:32] "GET /menu/firewall HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 12:00:32] "[36mGET /static/assets/materialize/css/materialize.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 12:00:32] "[36mGET /static/assets/css/bootstrap.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 12:00:32] "[36mGET /static/assets/js/Lightweight-Chart/cssCharts.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 12:00:32] "[36mGET /static/assets/css/font-awesome.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 12:00:32] "[36mGET /static/assets/css/custom-styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 12:00:32] "[36mGET /static/assets/js/morris/morris-0.4.3.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 12:00:32] "[36mGET /static/assets/js/jquery-1.10.2.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 12:00:32] "[36mGET /static/assets/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 12:00:32] "[36mGET /static/assets/materialize/js/materialize.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 12:00:32] "[36mGET /static/assets/js/jquery.metisMenu.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 12:00:32] "[36mGET /static/assets/js/morris/raphael-2.1.0.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 12:00:32] "[36mGET /static/assets/js/easypiechart.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 12:00:32] "[36mGET /static/assets/js/morris/morris.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 12:00:32] "[36mGET /static/assets/js/easypiechart-data.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 12:00:32] "[36mGET /static/assets/js/Lightweight-Chart/jquery.chart.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 12:00:32] "[36mGET /static/assets/js/custom-scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 12:00:32] "GET /static/assets/js/dataTables/dataTables.bootstrap.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 12:00:32] "GET /static/assets/js/dataTables/jquery.dataTables.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 12:00:39] "[36mGET /static/assets/font-awesome/fonts/fontawesome-webfontba72.woff?v=4.0.3 HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 12:00:51] "GET /menu/antisheller HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 12:00:51] "[36mGET /static/assets/materialize/css/materialize.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 12:00:51] "[36mGET /static/assets/css/bootstrap.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 12:00:51] "[36mGET /static/assets/css/font-awesome.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 12:00:51] "[36mGET /static/assets/js/Lightweight-Chart/cssCharts.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 12:00:51] "[36mGET /static/assets/css/custom-styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 12:00:51] "[36mGET /static/assets/js/morris/morris-0.4.3.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 12:00:51] "[36mGET /static/assets/js/jquery-1.10.2.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 12:00:51] "[36mGET /static/assets/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 12:00:51] "[36mGET /static/assets/materialize/js/materialize.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 12:00:51] "[36mGET /static/assets/js/custom-scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 12:00:51] "[36mGET /static/assets/js/jquery.metisMenu.js HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in '/home/koosha/Documents/work/Test/Security/Hamed/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 596-502-346
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 12:25:29] "GET /menu/antisheller HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 12:25:30] "[36mGET /static/assets/materialize/css/materialize.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 12:25:30] "[36mGET /static/assets/css/bootstrap.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 12:25:30] "[36mGET /static/assets/css/font-awesome.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 12:25:30] "[36mGET /static/assets/js/morris/morris-0.4.3.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 12:25:30] "[36mGET /static/assets/css/custom-styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 12:25:30] "[36mGET /static/assets/js/Lightweight-Chart/cssCharts.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 12:25:30] "[36mGET /static/assets/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 12:25:30] "[36mGET /static/assets/materialize/js/materialize.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 12:25:30] "[36mGET /static/assets/js/jquery.metisMenu.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 12:25:30] "[36mGET /static/assets/js/custom-scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 12:25:30] "[36mGET /static/assets/js/jquery-1.10.2.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 12:25:31] "[36mGET /static/assets/font-awesome/fonts/fontawesome-webfontba72.woff?v=4.0.3 HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 12:37:28] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 12:37:28] "[36mGET /static/assets/css/bootstrap.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 12:37:28] "[36mGET /static/assets/css/font-awesome.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 12:37:28] "[36mGET /static/assets/materialize/css/materialize.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 12:37:28] "[36mGET /static/assets/css/custom-styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 12:37:29] "[36mGET /static/assets/js/morris/morris-0.4.3.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 12:37:29] "[36mGET /static/assets/js/Lightweight-Chart/cssCharts.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 12:37:29] "[36mGET /static/assets/js/jquery-1.10.2.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 12:37:29] "[36mGET /static/assets/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 12:37:29] "[36mGET /static/assets/materialize/js/materialize.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 12:37:29] "[36mGET /static/assets/js/morris/raphael-2.1.0.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 12:37:29] "[36mGET /static/assets/js/jquery.metisMenu.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 12:37:29] "[36mGET /static/assets/js/morris/morris.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 12:37:29] "[36mGET /static/assets/js/Lightweight-Chart/jquery.chart.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 12:37:29] "[36mGET /static/assets/js/easypiechart.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 12:37:29] "[36mGET /static/assets/js/custom-scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 12:37:29] "[36mGET /static/assets/js/easypiechart-data.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 12:37:29] "[36mGET /static/assets/font-awesome/fonts/fontawesome-webfontba72.woff?v=4.0.3 HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 12:37:32] "GET /menu/backup HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 12:37:32] "[36mGET /static/assets/css/font-awesome.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 12:37:32] "[36mGET /static/assets/materialize/css/materialize.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 12:37:32] "[36mGET /static/assets/js/morris/morris-0.4.3.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 12:37:32] "[36mGET /static/assets/css/custom-styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 12:37:32] "[36mGET /static/assets/css/bootstrap.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 12:37:32] "[36mGET /static/assets/js/Lightweight-Chart/cssCharts.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 12:37:32] "[36mGET /static/assets/js/jquery-1.10.2.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 12:37:32] "[36mGET /static/assets/js/jquery.metisMenu.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 12:37:32] "[36mGET /static/assets/materialize/js/materialize.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 12:37:32] "[36mGET /static/assets/js/morris/raphael-2.1.0.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 12:37:32] "[36mGET /static/assets/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 12:37:32] "[36mGET /static/assets/js/morris/morris.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 12:37:32] "[36mGET /static/assets/js/easypiechart-data.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 12:37:32] "[36mGET /static/assets/js/easypiechart.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 12:37:32] "[36mGET /static/assets/js/custom-scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 12:37:32] "[36mGET /static/assets/js/Lightweight-Chart/jquery.chart.js HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 596-502-346
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 13:36:12] "GET /menu/backup HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 13:36:12] "[36mGET /static/assets/materialize/css/materialize.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 13:36:12] "[36mGET /static/assets/css/bootstrap.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 13:36:12] "[36mGET /static/assets/css/custom-styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 13:36:12] "[36mGET /static/assets/js/Lightweight-Chart/cssCharts.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 13:36:12] "[36mGET /static/assets/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 13:36:12] "[36mGET /static/assets/css/font-awesome.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 13:36:12] "[36mGET /static/assets/js/morris/morris-0.4.3.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 13:36:12] "[36mGET /static/assets/js/jquery-1.10.2.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 13:36:12] "[36mGET /static/assets/materialize/js/materialize.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 13:36:12] "[36mGET /static/assets/js/morris/raphael-2.1.0.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 13:36:12] "[36mGET /static/assets/js/morris/morris.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 13:36:12] "[36mGET /static/assets/js/easypiechart-data.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 13:36:12] "[36mGET /static/assets/js/easypiechart.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 13:36:12] "[36mGET /static/assets/js/Lightweight-Chart/jquery.chart.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 13:36:12] "[36mGET /static/assets/js/jquery.metisMenu.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 13:36:12] "[36mGET /static/assets/js/custom-scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 13:36:12] "[36mGET /static/assets/font-awesome/fonts/fontawesome-webfontba72.woff?v=4.0.3 HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 106-424-781
+INFO:werkzeug: * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 106-424-781
+INFO:werkzeug: * Running on http://0.0.0.0:8080/ (Press CTRL+C to quit)
+INFO:werkzeug:192.168.1.102 - - [23/Nov/2021 11:14:35] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:192.168.1.102 - - [23/Nov/2021 11:14:35] "[37mGET /static/assets/css/redhat.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:192.168.1.102 - - [23/Nov/2021 11:14:35] "[37mGET /static/images/red-hat-1.svg HTTP/1.1[0m" 200 -
+INFO:werkzeug:192.168.1.102 - - [23/Nov/2021 11:14:51] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:192.168.1.102 - - [23/Nov/2021 11:14:51] "[33mGET /login.html HTTP/1.1[0m" 404 -
+INFO:werkzeug:192.168.1.102 - - [23/Nov/2021 11:15:09] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:192.168.1.102 - - [23/Nov/2021 11:15:09] "[33mGET /login.html HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Running on http://0.0.0.0:8080/ (Press CTRL+C to quit)
+INFO:werkzeug:192.168.1.102 - - [23/Nov/2021 11:15:52] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:192.168.1.102 - - [23/Nov/2021 11:15:52] "[37mGET /static/assets/materialize/css/materialize.min.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:192.168.1.102 - - [23/Nov/2021 11:15:52] "[37mGET /static/assets/css/bootstrap.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:192.168.1.102 - - [23/Nov/2021 11:15:52] "[37mGET /static/assets/css/font-awesome.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:192.168.1.102 - - [23/Nov/2021 11:15:52] "[37mGET /static/assets/js/morris/morris-0.4.3.min.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:192.168.1.102 - - [23/Nov/2021 11:15:52] "[37mGET /static/assets/css/custom-styles.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:192.168.1.102 - - [23/Nov/2021 11:15:52] "[37mGET /static/assets/js/Lightweight-Chart/cssCharts.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:192.168.1.102 - - [23/Nov/2021 11:15:52] "[37mGET /static/assets/js/jquery-1.10.2.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:192.168.1.102 - - [23/Nov/2021 11:15:52] "[37mGET /static/assets/js/bootstrap.min.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:192.168.1.102 - - [23/Nov/2021 11:15:52] "[37mGET /static/assets/materialize/js/materialize.min.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:192.168.1.102 - - [23/Nov/2021 11:15:52] "[37mGET /static/assets/js/jquery.metisMenu.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:192.168.1.102 - - [23/Nov/2021 11:15:52] "[37mGET /static/assets/js/morris/raphael-2.1.0.min.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:192.168.1.102 - - [23/Nov/2021 11:15:53] "[37mGET /static/assets/js/morris/morris.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:192.168.1.102 - - [23/Nov/2021 11:15:53] "[37mGET /static/assets/js/easypiechart.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:192.168.1.102 - - [23/Nov/2021 11:15:53] "[37mGET /static/assets/js/easypiechart-data.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:192.168.1.102 - - [23/Nov/2021 11:15:53] "[37mGET /static/assets/js/Lightweight-Chart/jquery.chart.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:192.168.1.102 - - [23/Nov/2021 11:15:53] "[37mGET /static/assets/js/custom-scripts.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:192.168.1.102 - - [23/Nov/2021 11:15:54] "[37mGET /static/assets/font-awesome/fonts/fontawesome-webfontba72.woff?v=4.0.3 HTTP/1.1[0m" 200 -
+INFO:werkzeug:192.168.1.102 - - [23/Nov/2021 11:16:23] "[37mGET /menu/firewall HTTP/1.1[0m" 200 -
+INFO:werkzeug:192.168.1.102 - - [23/Nov/2021 11:16:23] "[37mGET /static/assets/js/dataTables/jquery.dataTables.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:192.168.1.102 - - [23/Nov/2021 11:16:23] "[37mGET /static/assets/js/dataTables/dataTables.bootstrap.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:192.168.1.102 - - [23/Nov/2021 11:16:34] "[33mGET /index.html HTTP/1.1[0m" 404 -
+INFO:werkzeug:192.168.1.102 - - [23/Nov/2021 11:16:39] "[37mGET /menu/firewall HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Running on http://0.0.0.0:8080/ (Press CTRL+C to quit)
+INFO:werkzeug:192.168.1.103 - - [23/Nov/2021 11:31:45] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:192.168.1.103 - - [23/Nov/2021 11:31:46] "[37mGET /static/assets/css/redhat.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:192.168.1.103 - - [23/Nov/2021 11:31:46] "[37mGET /static/images/red-hat-1.svg HTTP/1.1[0m" 200 -
+INFO:werkzeug:192.168.1.103 - - [23/Nov/2021 11:31:57] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:192.168.1.103 - - [23/Nov/2021 11:33:28] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:192.168.1.103 - - [23/Nov/2021 11:33:29] "[37mGET /static/assets/materialize/css/materialize.min.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:192.168.1.103 - - [23/Nov/2021 11:33:29] "[37mGET /static/assets/css/bootstrap.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:192.168.1.103 - - [23/Nov/2021 11:33:29] "[37mGET /static/assets/css/custom-styles.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:192.168.1.103 - - [23/Nov/2021 11:33:29] "[37mGET /static/assets/js/morris/morris-0.4.3.min.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:192.168.1.103 - - [23/Nov/2021 11:33:29] "[37mGET /static/assets/css/font-awesome.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:192.168.1.103 - - [23/Nov/2021 11:33:31] "[37mGET /static/assets/js/Lightweight-Chart/cssCharts.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:192.168.1.103 - - [23/Nov/2021 11:33:31] "[37mGET /static/assets/js/jquery-1.10.2.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:192.168.1.103 - - [23/Nov/2021 11:33:32] "[37mGET /static/assets/js/bootstrap.min.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:192.168.1.103 - - [23/Nov/2021 11:33:32] "[37mGET /static/assets/materialize/js/materialize.min.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:192.168.1.103 - - [23/Nov/2021 11:33:32] "[37mGET /static/assets/js/jquery.metisMenu.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:192.168.1.103 - - [23/Nov/2021 11:33:32] "[37mGET /static/assets/js/morris/raphael-2.1.0.min.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:192.168.1.103 - - [23/Nov/2021 11:33:33] "[37mGET /static/assets/js/morris/morris.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:192.168.1.103 - - [23/Nov/2021 11:33:33] "[37mGET /static/assets/js/easypiechart.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:192.168.1.103 - - [23/Nov/2021 11:33:33] "[37mGET /static/assets/js/easypiechart-data.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:192.168.1.103 - - [23/Nov/2021 11:33:35] "[37mGET /static/assets/font-awesome/fonts/fontawesome-webfontba72.woff?v=4.0.3 HTTP/1.1[0m" 200 -
+INFO:werkzeug:192.168.1.103 - - [23/Nov/2021 11:33:35] "[37mGET /static/assets/js/Lightweight-Chart/jquery.chart.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:192.168.1.103 - - [23/Nov/2021 11:33:38] "[37mGET /static/assets/js/custom-scripts.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:192.168.1.103 - - [23/Nov/2021 11:34:29] "[33mGET /menu/clamav HTTP/1.1[0m" 404 -
+INFO:werkzeug:192.168.1.103 - - [23/Nov/2021 11:35:30] "[33mGET /menu/clamav HTTP/1.1[0m" 404 -
+INFO:werkzeug:192.168.1.103 - - [23/Nov/2021 11:36:19] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Running on http://0.0.0.0:8080/ (Press CTRL+C to quit)
+INFO:werkzeug:192.168.1.102 - - [23/Nov/2021 11:59:03] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:192.168.1.102 - - [23/Nov/2021 12:00:20] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:192.168.1.102 - - [23/Nov/2021 12:00:20] "[37mGET /static/assets/materialize/css/materialize.min.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:192.168.1.102 - - [23/Nov/2021 12:00:20] "[37mGET /static/assets/css/bootstrap.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:192.168.1.102 - - [23/Nov/2021 12:00:20] "[37mGET /static/assets/css/font-awesome.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:192.168.1.102 - - [23/Nov/2021 12:00:20] "[37mGET /static/assets/css/custom-styles.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:192.168.1.102 - - [23/Nov/2021 12:00:20] "[37mGET /static/assets/js/morris/morris-0.4.3.min.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:192.168.1.102 - - [23/Nov/2021 12:00:20] "[37mGET /static/assets/js/Lightweight-Chart/cssCharts.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:192.168.1.102 - - [23/Nov/2021 12:00:20] "[37mGET /static/assets/js/jquery-1.10.2.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:192.168.1.102 - - [23/Nov/2021 12:00:20] "[37mGET /static/assets/js/bootstrap.min.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:192.168.1.102 - - [23/Nov/2021 12:00:20] "[37mGET /static/assets/js/jquery.metisMenu.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:192.168.1.102 - - [23/Nov/2021 12:00:20] "[37mGET /static/assets/materialize/js/materialize.min.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:192.168.1.102 - - [23/Nov/2021 12:00:20] "[37mGET /static/assets/js/morris/raphael-2.1.0.min.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:192.168.1.102 - - [23/Nov/2021 12:00:20] "[37mGET /static/assets/js/morris/morris.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:192.168.1.102 - - [23/Nov/2021 12:00:20] "[37mGET /static/assets/js/easypiechart.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:192.168.1.102 - - [23/Nov/2021 12:00:21] "[37mGET /static/assets/js/easypiechart-data.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:192.168.1.102 - - [23/Nov/2021 12:00:21] "[37mGET /static/assets/js/Lightweight-Chart/jquery.chart.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:192.168.1.102 - - [23/Nov/2021 12:00:21] "[37mGET /static/assets/js/custom-scripts.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:192.168.1.102 - - [23/Nov/2021 12:00:21] "[37mGET /static/assets/font-awesome/fonts/fontawesome-webfontba72.woff?v=4.0.3 HTTP/1.1[0m" 200 -
+INFO:werkzeug:192.168.1.102 - - [23/Nov/2021 12:00:21] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:192.168.1.102 - - [23/Nov/2021 12:00:23] "[37mGET /menu/firewall HTTP/1.1[0m" 200 -
+INFO:werkzeug:192.168.1.102 - - [23/Nov/2021 12:00:23] "[37mGET /static/assets/js/dataTables/jquery.dataTables.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:192.168.1.102 - - [23/Nov/2021 12:00:23] "[37mGET /static/assets/js/dataTables/dataTables.bootstrap.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:192.168.1.102 - - [23/Nov/2021 12:00:34] "[37mPOST /menu/firewall/deldhcpout HTTP/1.1[0m" 200 -
+INFO:werkzeug:192.168.1.102 - - [23/Nov/2021 12:00:38] "[37mPOST /menu/firewall/dhcpout HTTP/1.1[0m" 200 -
+INFO:werkzeug:192.168.1.102 - - [23/Nov/2021 12:00:45] "[37mPOST /menu/firewall/deldhcpin HTTP/1.1[0m" 200 -
+INFO:werkzeug:192.168.1.102 - - [23/Nov/2021 12:00:52] "[37mGET /menu/antisheller HTTP/1.1[0m" 200 -
+INFO:werkzeug:192.168.1.102 - - [23/Nov/2021 12:00:56] "[37mGET /menu/backup HTTP/1.1[0m" 200 -
